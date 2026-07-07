@@ -1,0 +1,48 @@
+{
+  "repo": "Remote-Tech-Jobs",
+  "owner": "ponder-surveys",
+  "title": "Remote Tech Jobs — updated daily",
+  "emoji": "🌍",
+  "tagline": "Fully-remote software engineering, data, and security roles worldwide — refreshed every day from Dreamwork's live crawl of 400,000+ company career pages, with parsed salaries.",
+  "description": "🌍 Remote software engineering, data & security jobs worldwide, updated daily with salaries — from 400K+ crawled listings.",
+  "homepage": "https://www.dreamworkhq.com/?utm_source=github&utm_medium=repo_homepage&utm_campaign=gh-remote-tech-jobs",
+  "topics": ["remote-jobs", "remote-work", "jobs", "job-search", "software-engineering", "work-from-home", "jobboard", "careers", "tech-jobs", "remote", "developer-jobs", "hiring", "digital-nomad", "engineering-jobs", "wfh"],
+  "utmCampaign": "gh-remote-tech-jobs",
+  "keywords": "fully-remote software engineering, data, and security roles worldwide",
+  "sources": [
+    { "remote": "true", "function": "Engineering" },
+    { "remote": "true", "function": "Data Science" },
+    { "remote": "true", "function": "Security" }
+  ],
+  "usOnly": false,
+  "titleInclude": "engineer|developer|architect|devops|\\bsre\\b|data|machine learning|\\bai\\b|security|cloud|software|platform|infra|scientist|analyst|\\bqa\\b|reliability",
+  "titleExclude": "director|\\bvp\\b|head of|chief",
+  "maxRows": 100,
+  "jsonRows": 250,
+  "minRows": 25,
+  "maxPagesPerSource": 30,
+  "showAiColumn": false,
+  "siblings": [
+    { "repo": "ponder-surveys/New-Grad-Software-Engineer-Jobs", "label": "New Grad Software Engineer Jobs — entry-level roles for graduates" },
+    { "repo": "ponder-surveys/Tech-Internships-2026", "label": "Tech Internships 2026 — SWE, data, product & design internships" },
+    { "repo": "ponder-surveys/AI-ML-Jobs", "label": "AI & ML Jobs — AI-first roles, classified daily" }
+  ],
+  "faq": [
+    {
+      "q": "How often is this list updated?",
+      "a": "Every day. A GitHub Action pulls the freshest fully-remote listings from Dreamwork's public API, which crawls 400,000+ live jobs directly from company career pages (Greenhouse, Lever, Ashby, Workday, and more). Use <kbd>Ctrl</kbd>+<kbd>F</kbd> for backend, frontend, DevOps, data, or security roles."
+    },
+    {
+      "q": "Are these really remote?",
+      "a": "Every role here is classified <em>fully remote</em> by Dreamwork's crawler (hybrid roles are excluded). Some are remote within one country or timezone band — the location column shows the constraint when the employer states one, and the Dreamwork job page has the full details."
+    },
+    {
+      "q": "Where does the salary data come from?",
+      "a": "Salaries are parsed from the job descriptions themselves. If a posting doesn't disclose pay, the column is blank."
+    },
+    {
+      "q": "Can a tool just apply to these for me?",
+      "a": "That's what <a href=\"https://www.dreamworkhq.com/?utm_source=github&utm_medium=faq&utm_campaign=gh-remote-tech-jobs\">Dreamwork</a> does — it matches your résumé against every remote listing here, tailors your application, and can apply autonomously. The free tier shows all your matches."
+    }
+  ]
+}
