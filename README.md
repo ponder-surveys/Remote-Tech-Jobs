@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./static/img/banner-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./static/img/banner-light.svg">
-    <img src="./static/img/banner-light.svg" alt="Dreamwork turns live job listings into personalized matches" width="100%">
+    <img src="./static/img/banner-light.svg" alt="Dreamwork puts your job search in Pro mode by ranking live roles for your resume" width="100%">
   </picture>
 </a>
 
@@ -20,7 +20,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./static/img/btn-matches-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="./static/img/btn-matches-light.svg">
-      <img src="./static/img/btn-matches-light.svg" width="340" alt="Match my resume to these roles">
+      <img src="./static/img/btn-matches-light.svg" width="340" alt="Match my resume">
     </picture>
   </a>
 </p>
