@@ -1,5 +1,10 @@
-<a href="https://www.dreamworkhq.com/?utm_source=github&utm_medium=readme_cta&utm_campaign=gh-remote-tech-jobs"><img src="./static/img/banner-dark.svg#gh-dark-mode-only" alt="Dreamwork turns live job listings into personalized matches" width="100%"></a>
-<a href="https://www.dreamworkhq.com/?utm_source=github&utm_medium=readme_cta&utm_campaign=gh-remote-tech-jobs"><img src="./static/img/banner-light.svg#gh-light-mode-only" alt="Dreamwork turns live job listings into personalized matches" width="100%"></a>
+<a href="https://www.dreamworkhq.com/?utm_source=github&utm_medium=readme_cta&utm_campaign=gh-remote-tech-jobs">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./static/img/banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./static/img/banner-light.svg">
+    <img src="./static/img/banner-light.svg" alt="Dreamwork turns live job listings into personalized matches" width="100%">
+  </picture>
+</a>
 
 <h1 align="center">Remote Tech Jobs</h1>
 
@@ -11,8 +16,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.dreamworkhq.com/?utm_source=github&utm_medium=readme_cta&utm_campaign=gh-remote-tech-jobs"><img src="./static/img/btn-matches-dark.svg#gh-dark-mode-only" width="340" alt="Match my resume to these roles"></a>
-  <a href="https://www.dreamworkhq.com/?utm_source=github&utm_medium=readme_cta&utm_campaign=gh-remote-tech-jobs"><img src="./static/img/btn-matches-light.svg#gh-light-mode-only" width="340" alt="Match my resume to these roles"></a>
+  <a href="https://www.dreamworkhq.com/?utm_source=github&utm_medium=readme_cta&utm_campaign=gh-remote-tech-jobs">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./static/img/btn-matches-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./static/img/btn-matches-light.svg">
+      <img src="./static/img/btn-matches-light.svg" width="340" alt="Match my resume to these roles">
+    </picture>
+  </a>
 </p>
 
 <p align="center">
@@ -514,8 +524,8 @@ Last updated: **2026-07-15**. Showing the **600** most recently indexed roles, c
 | **[ZOLLMedical Corp](https://www.dreamworkhq.com/c/zoll.com?utm_source=github&utm_campaign=gh-remote-tech-jobs)** | [Quality Assurance Engineer](https://www.dreamworkhq.com/job/d011120f-0767-4594-9cfd-ccce0a4bee62?utm_source=github&utm_campaign=gh-remote-tech-jobs) | Remote (Pawtucket, RI) | $75K–$95K | 0d |
 | **[ZOLLMedical Corp](https://www.dreamworkhq.com/c/zoll.com?utm_source=github&utm_campaign=gh-remote-tech-jobs)** | [Senior Manufacturing Engineer](https://www.dreamworkhq.com/job/749aba9d-a1b7-4131-9198-e871b208ab82?utm_source=github&utm_campaign=gh-remote-tech-jobs) | Remote (Deerfield, WI) | $97K–$110K | 0d |
 | **[ZOLLMedical Corp](https://www.dreamworkhq.com/c/zoll.com?utm_source=github&utm_campaign=gh-remote-tech-jobs)** | [Manufacturing Engineering Manager](https://www.dreamworkhq.com/job/dc24d56b-a2bf-4411-a817-890da27ba6ec?utm_source=github&utm_campaign=gh-remote-tech-jobs) | Remote (Chelmsford, MA) | $150K–$188K | 0d |
-| **[Nexperia](https://www.dreamworkhq.com/c/nexperia.com?utm_source=github&utm_campaign=gh-remote-tech-jobs)** | [Analog Field Applications Engineer (FAE)](https://www.dreamworkhq.com/job/64e64adf-aae5-4d20-8b43-26d5e0b5f8b7?utm_source=github&utm_campaign=gh-remote-tech-jobs) | Remote (United States of America - Home based) | $125K–$185K | 0d |
-| **[Nexperia](https://www.dreamworkhq.com/c/nexperia.com?utm_source=github&utm_campaign=gh-remote-tech-jobs)** | [Principal Product Engineer](https://www.dreamworkhq.com/job/cfb656a8-e00c-4800-84f1-b47ad36a2da3?utm_source=github&utm_campaign=gh-remote-tech-jobs) | Remote (Nijmegen) | $103K–$135K | 0d |
+| **[Nexperia](https://www.dreamworkhq.com/c/nexperia.com?utm_source=github&utm_campaign=gh-remote-tech-jobs)** | [Analog Field Applications Engineer (FAE)](https://www.dreamworkhq.com/job/64e64adf-aae5-4d20-8b43-26d5e0b5f8b7?utm_source=github&utm_campaign=gh-remote-tech-jobs) | Remote (United States of America - Home based) | $125K–$185K | 1d |
+| **[Nexperia](https://www.dreamworkhq.com/c/nexperia.com?utm_source=github&utm_campaign=gh-remote-tech-jobs)** | [Principal Product Engineer](https://www.dreamworkhq.com/job/cfb656a8-e00c-4800-84f1-b47ad36a2da3?utm_source=github&utm_campaign=gh-remote-tech-jobs) | Remote (Nijmegen) | $103K–$135K | 1d |
 | **[Datasite](https://www.dreamworkhq.com/c/datasite.com?utm_source=github&utm_campaign=gh-remote-tech-jobs)** | [Senior Software Developer – API & Partner Integrations](https://www.dreamworkhq.com/job/7f592c89-5b32-4bfd-b73c-a432a7438fb7?utm_source=github&utm_campaign=gh-remote-tech-jobs) | Remote (USA - MN - Minneapolis) | $99K–$173K | 1d |
 | **[Datasite](https://www.dreamworkhq.com/c/datasite.com?utm_source=github&utm_campaign=gh-remote-tech-jobs)** | [Senior QA Engineer (Europe, remote) - Sherpany](https://www.dreamworkhq.com/job/c51acb42-5596-4b02-8ad4-ffaaffcaeb6a?utm_source=github&utm_campaign=gh-remote-tech-jobs) | Remote (POL - Poland Work from Home) |  | 1d |
 | **[Datasite](https://www.dreamworkhq.com/c/datasite.com?utm_source=github&utm_campaign=gh-remote-tech-jobs)** | [Data Engineer (9 months contract, Europe remote) - Sherpany](https://www.dreamworkhq.com/job/adf9bb5b-0f84-4968-9d26-42101f820dc2?utm_source=github&utm_campaign=gh-remote-tech-jobs) | Remote (CHE - Switzerland Work from Home) |  | 1d |
